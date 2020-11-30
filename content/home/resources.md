@@ -2,10 +2,10 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 70  # Order that this section will appear.
 
-title = "Projects"
+title = "Χρήσιμοι Σύνδεσμοι"
 subtitle = ""
 
 [content]
@@ -74,21 +74,18 @@ subtitle = ""
  css_class = ""
 +++
 
-**Literature Links**
+**Βιβλιογραφία**
 
-[Τμήμα Λογοθεραπείας - Πανεπιστήμιο Πατρών] http://logoth.upatras.gr/
+[Google Scholar](https://scholar.google.gr/)	|	[SSRN](https://www.ssrn.com/index.cfm/en/) | [EconLit](https://www.aeaweb.org/econlit/)	|	[NBER](https://www.nber.org/papers/)
 
-[Σύλλογος Επιστημόνων Λογοπαθολόγων Λογοθεραπευτών Ελλάδος] https://www.selle.gr/
+**Βάσεις Δεδομένων**
 
-[Ελληνικός Σύλλογος για την Aφασία] http://www.aphasia.gr/
+[Economic Data FRED](https://fred.stlouisfed.org/)	|	[Fama/French's Data Library](http://mba.tuck.dartmouth.edu/pages/faculty/ken.french/data_library.html)	|	[Hoberg-Phillips Text-based Industry Classifications](http://hobergphillips.tuck.dartmouth.edu/)	|	[Baker, Bloom and Davis' Policy Uncertainty Index](http://www.policyuncertainty.com/)	|	[Demerjian, Lev, and McVay's Managerial Ability](http://faculty.washington.edu/pdemerj/data.html)
 
-[Ελληνική Εταιρία Προστασίας Αυτιστικών Ατόμων] https://autismgreece.gr/
+**Γλώσσες Προγραμματισμού και Εργαλεία**
 
-[Ελληνική Εταιρία Προστασίας και Αποκατάστασης Αναπήρων Παίδων] https://elepap.gr/
+[Stata](https://www.stata.com/)	|	[R-Project](https://www.r-project.org/) |	[Latex Project](https://www.latex-project.org/)	| [Overleaf](https://www.overleaf.com/)	|	[Markdown](http://markdownpad.com/)	|	[Mendeley](https://www.mendeley.com) 	|	[Github](https://github.com/)
 
-[Ελληνική Εταιρία Δυσλεξίας] https://www.dyslexia.gr/
+**Οικονομικά Νέα**
 
-[Υπουργείο Υγείας] https://www.moh.gov.gr/
-
-[Υπουργείο Εθνικής Παιδείας και Θρησκευμάτων] https://www.minedu.gov.gr/
- 
+[Google Finance](https://www.google.com/finance) |	[Yahoo Finance](https://finance.yahoo.com/)	|	[Bloomberg](https://www.bloomberg.com/europe)	|	[WSJ](https://www.wsj.com/europe)
