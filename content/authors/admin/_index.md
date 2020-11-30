@@ -39,13 +39,13 @@ education:
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
   
-  [[social]] icon = "envelope" icon_pack = "fas" link = "#contact" # For a direct email link, use "mailto:test@example.org".
+ #  [[social]] icon = "envelope" icon_pack = "fas" link = "#contact" # For a direct email link, use "mailto:test@example.org".
 
-[[social]] icon = "facebook" icon_pack = "fab" link = "https://el-gr.facebook.com/logotherapeia.pyrgos/"
+# [[social]] icon = "facebook" icon_pack = "fab" link = "https://el-gr.facebook.com/logotherapeia.pyrgos/"
 
-[[social]] icon = "linkedin" icon_pack = "fab" link = "https://www.linkedin.com/in/kandri/"
+# [[social]] icon = "linkedin" icon_pack = "fab" link = "https://www.linkedin.com/in/kandri/"
 
-[[social]] icon = "twitter" icon_pack = "fab" link = "https://twitter.com/logotherapeia.pyrgos"
+# [[social]] icon = "twitter" icon_pack = "fab" link = "https://twitter.com/logotherapeia.pyrgos"
 
 [[social]] icon = "instagram" icon_pack = "fab" link = "https://instagram.com/logotherapeia.pyrgos"
 # Link to a PDF of your resume/CV from the About widget.
